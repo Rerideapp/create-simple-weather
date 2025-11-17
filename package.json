@@ -1,0 +1,15 @@
+{
+  "name": "create-simple-weather",
+  "version": "1.0.0",
+  "description": "Create a simple weather display widget showing current temperature and weather condition. Use a clean, minimal design with an icon representing the weather.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
